@@ -18,5 +18,4 @@ HTML
 CSS
 
 
-## Live Demo
-(link here)
+
