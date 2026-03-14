@@ -10,6 +10,10 @@ main{
     background-color: aqua;
 } */
 
+
+#nav_bar a:hover {
+    border-bottom: 4px solid #f54e77;
+}
 *{ 
     margin: 0;
     padding: 0;
